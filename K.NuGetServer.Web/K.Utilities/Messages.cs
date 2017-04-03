@@ -4,15 +4,21 @@
 
 namespace K.Utilities
 {
+    using System.Diagnostics.CodeAnalysis;
+
     /// <summary>
-    /// Messages
+    /// provide message processing
     /// </summary>
     public class Messages
     {
         /// <summary>
-        /// messages
+        /// get a test message
         /// </summary>
-        /// <returns>sssss</returns>
+        /// <returns>
+        /// return a test message, type is
+        /// <see cref="string"/>
+        /// </returns>
+        [ExcludeFromCodeCoverage]
         public virtual string GetTestMessage()
         {
             return $"this is a test message from ${typeof(Messages).FullName}";
