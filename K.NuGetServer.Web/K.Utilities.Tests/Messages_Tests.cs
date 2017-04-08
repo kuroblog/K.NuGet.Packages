@@ -3,7 +3,7 @@ namespace K.Utilities.Tests
 {
     using Microsoft.VisualStudio.TestTools.UnitTesting;
     using Moq;
-    using Utilities;
+    using Messages;
 
     [TestClass]
     public class Messages_Tests

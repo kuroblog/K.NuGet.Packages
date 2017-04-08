@@ -2,7 +2,7 @@
 // Copyright (c) K&amp;T. All rights reserved.
 // </copyright>
 
-namespace K.Utilities
+namespace K.Utilities.Messages
 {
     using System.Diagnostics.CodeAnalysis;
 

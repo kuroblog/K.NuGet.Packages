@@ -44,8 +44,8 @@
     <Compile Include="..\Items\AssemblyInfo.cs">
       <Link>AssemblyInfo.cs</Link>
     </Compile>
-    <Compile Include="Assemblies.cs" />
-    <Compile Include="Messages.cs" />
+    <Compile Include="Messages\AssemblyInfo.cs" />
+    <Compile Include="Messages\Messages.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

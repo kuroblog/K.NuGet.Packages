@@ -1,8 +1,8 @@
-﻿// <copyright file="Assemblies.cs" company="K&amp;T">
+﻿// <copyright file="AssemblyInfo.cs" company="K&amp;T">
 // Copyright (c) K&amp;T. All rights reserved.
 // </copyright>
 
-namespace K.Utilities
+namespace K.Utilities.Messages
 {
     using System.IO;
     using System.Reflection;
@@ -10,7 +10,7 @@ namespace K.Utilities
     /// <summary>
     /// Provide get assembly information
     /// </summary>
-    public class Assemblies
+    public class AssemblyInfo
     {
         /// <summary>
         /// Gets assembly title
