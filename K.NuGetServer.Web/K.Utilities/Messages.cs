@@ -7,12 +7,12 @@ namespace K.Utilities
     using System.Diagnostics.CodeAnalysis;
 
     /// <summary>
-    /// provide message processing
+    /// Provide message processing
     /// </summary>
     public class Messages
     {
         /// <summary>
-        /// get a test message
+        /// Get a test message
         /// </summary>
         /// <returns>
         /// return a test message, type is
